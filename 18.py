@@ -19,7 +19,7 @@ def operation(num1, num2):
     elif num1 - num2 == 24 or num2 - num1 == 24:
         return 'subtracted'
     elif num1 / num2 == 24 or num2 / num1 == 24:
-        return 'dicided'
+        return 'divided'
     elif num1 * num2 == 24:
         return 'multiplied'
     else:
